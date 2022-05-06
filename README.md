@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm Hannah! Welcome to my profile! 
+### Welcome to my profile! 
 ### Here are some facts about me:
 
 - 🔭 I played a little with **C++** and **R** at University - Biochemical Engineering / Bioinformatics (UFPR - BR / FU Berlin - GE)
