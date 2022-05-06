@@ -16,5 +16,5 @@
   - Spanish
 - 📫 How to reach me: hannah.ebb.he@gmail.com
 - Pronouns: She / her
-- Fun fact: I watch more cartoons now then I did as a child ^^
+- Fun fact: I watch more cartoons now then I did as a kid ^^
 
