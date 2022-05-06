@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
-## I'm Hannah! Welcome to my profile! 
-## Here are some facts about me:
+### I'm Hannah! Welcome to my profile! 
+### Here are some facts about me:
 
 - 🔭 I played a little with **C++** and **R** at University - Biochemical Engineering / Bioinformatics (UFPR - BR / FU Berlin - GE)
 - 💪🏽 Currently working with digital marketing (the whole package of copywriting, video editing, paid traffic, custumer relationship  ... a true "one woman band" show)
